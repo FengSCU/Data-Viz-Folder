@@ -1,5 +1,8 @@
 # Redesign Deceptive Data Products for Gun Violence in the US
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 # Introduction
 
 Data deception, defined by School of Law at the New York University, as “a graphical depiction of information, designed with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message"(Pandey et al., 2015). In this paper, I will redesign three deceptive data products with the purpose to make a contradictive arguments from the article on VOX (Lopez 2018). The data sources come from the original data sources from the article.
