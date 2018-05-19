@@ -31,7 +31,7 @@ Dual axis is used to "compare two varaibles with different magnitudes and scales
 ## Finding 1 
 
 ### Originial Argument: 4) On average, there is around one mass shooting for each day in America.
-![Mass shooting calendar] (mass_shooting_calendar.png)
+![](image/mass_shooting_calendar.png)
 
 ### New Argument: Not all days are equal, mass shooting actually happended most on weekend in 2015.
 [](https://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
