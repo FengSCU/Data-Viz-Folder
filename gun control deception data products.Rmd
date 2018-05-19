@@ -32,10 +32,13 @@ Dual axis is used to "compare two varaibles with different magnitudes and scales
 
 ### Originial Argument: 4) On average, there is around one mass shooting for each day in America.
 ![mass shooting calender](image/mass_shooting.png)
+source: Gun Violence Archive
 
 ### New Argument: Not all days are equal, mass shooting actually happended most on weekend in 2015.
-[mass shooting by day of week](http://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
+[Public profile link](http://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
 
+![mass shooting by day of week](image/mass_shooting_1.png)
+source: Gun Violence Archive
 
 In the original argument, the arthor used calender view to demonstrate the records of mass shooting in 2015, indicating that there was really lots of mass shooting, on average per incident per day. Doing so, the arthor emphasized the frequency of mass shooting, and give a sense of nervours to reader since it seems that mass shooting occured every day.
 
@@ -45,7 +48,13 @@ In the new argument, I first grouped the incidents by day of week, then truncate
 
 ### Originial Argument: 5）States with more guns have more gun deaths
 ![gun death vs gun ownership](image/gun_death_state.png)
+
+Source: Kalesan et al., Gun Ownership and Social Gun Culture
+
 ### New Argument: There is little impact of gun ownership on gun deaths per state.
+[Public profile link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/state_gun_ownership_with_death_rate/Sheet2)
+
+![Gun ownership vs Gun death per State](image/gun_death_2.png)
 
 In the original argument, the arthor used line chart to show that the more gun ownership the state has, the more gun death per 100,000 residents. In that case, gun ownership did play imporant role in gun death.
 
@@ -55,10 +64,15 @@ In the new argument, I rescale the Y axis changing the maximum value from 20 to 
 
 ### Originial Argument: 10) Most gun deaths are suicides.
 ![Firearm suicides vs homecides](image/firearm_suicide_homicide.png)
-
+source: Centers for Disease Control and Prevention
 
 ### New Argument: The rate of firearm homicides increases more than rate of firearm suicides between 2014 and 2016.
-![]
+
+[Public profile link graph 1](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_with_axis/Sheet3)
+![Firearm Suicides vs Homicides](image/firearm1.png)
+
+[Public profile link graph 2](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_withoutlables/Sheet3)
+![Firearm Suicides vs Homicides](image/firearm2.png)
 
 In the original argument, the arthor used line chart to compare the number of firearm suicides versus homicides from year of 1999 to 2016, indicating that the number of firearm suicides was always greater than that of homicides. The author would like to state that firearm suicide was indeed the problem rather than the firearm homicides.
 
@@ -69,10 +83,18 @@ In the new argument, I only select data from 2014 to 2016 to form line chart wit
 As we can see from above findings, data deception does change the orginal messages. Common deception technique includes truncating  Y Axis, improper scaling and illustration, aspect ratios, and misusing of dual axis. We must be careful to handle data deception in visualization process.
 
 # Reference
+
+Gun Violence Archive (2015). Accessed from http://www.gunviolencearchive.org/.
+
+Kalesan B, Villarreal MD, Keyes KM, et al. Inj Prev 2016;22: 216–220.
+
+Krystian, Marisa (2016). Watch Out! 4 Common Missteps that Lead to Deceptive Data Visualizations. Infogram. Accessed from https://infogram.com/blog/4-common-missteps-that-lead-to-deceptive-data-visualizations/.
+
 Lopez, German (2018). America's Unique Gun Violence Problem, Explanied in 17 Maps and Charts. Vox. Accessed from https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts.
 
 Pandey, A. V., Rall, K., Satterthwaite, M. L., Nov, O., & Bertini, E. (2015). How deceptive are deceptive visualizations? An empirical analysis of common distortion techniques. In CHI 2015 - Proceedings of the 33rd Annual CHI Conference on Human Factors in Computing Systems: Crossings (Vol. 2015-April, pp. 1469-1478). Association for Computing Machinery. DOI: 10.1145/2702123.2702608
 
-Krystian, Marisa (2016). Watch Out! 4 Common Missteps that Lead to Deceptive Data Visualizations. Infogram. Accessed from https://infogram.com/blog/4-common-missteps-that-lead-to-deceptive-data-visualizations/.
+
+
 
 
