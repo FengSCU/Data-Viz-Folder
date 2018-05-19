@@ -1,8 +1,5 @@
 # Redesign Deceptive Data Products for Gun Violence in the US
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Introduction
 
 Data deception, defined by School of Law at the New York University, as “a graphical depiction of information, designed with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message"(Pandey et al., 2015). In this paper, I will redesign three deceptive data products with the purpose to make a contradictive arguments from the article on VOX (Lopez 2018). The data sources come from the original data sources from the article.
@@ -34,10 +31,11 @@ Dual axis is used to "compare two varaibles with different magnitudes and scales
 ## Finding 1 
 
 ### Originial Argument: 4) On average, there is around one mass shooting for each day in America.
-![](image/mass_shooting_calendar.png)
+![mass shooting calender](image/mass_shooting.png)
 
 ### New Argument: Not all days are equal, mass shooting actually happended most on weekend in 2015.
-[](https://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
+[mass shooting by day of week](http://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
+
 
 In the original argument, the arthor used calender view to demonstrate the records of mass shooting in 2015, indicating that there was really lots of mass shooting, on average per incident per day. Doing so, the arthor emphasized the frequency of mass shooting, and give a sense of nervours to reader since it seems that mass shooting occured every day.
 
@@ -46,7 +44,7 @@ In the new argument, I first grouped the incidents by day of week, then truncate
 ## Finding 2
 
 ### Originial Argument: 5）States with more guns have more gun deaths
-
+![gun death vs gun ownership](image/gun_death_state.png)
 ### New Argument: There is little impact of gun ownership on gun deaths per state.
 
 In the original argument, the arthor used line chart to show that the more gun ownership the state has, the more gun death per 100,000 residents. In that case, gun ownership did play imporant role in gun death.
@@ -56,7 +54,8 @@ In the new argument, I rescale the Y axis changing the maximum value from 20 to 
 ## Finding 3
 
 ### Originial Argument: 10) Most gun deaths are suicides.
-![]image attach
+![Firearm suicides vs homecides](image/firearm_suicide_homicide.png)
+
 
 ### New Argument: The rate of firearm homicides increases more than rate of firearm suicides between 2014 and 2016.
 ![]
