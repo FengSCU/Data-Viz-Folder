@@ -6,7 +6,7 @@ Data deception, defined by School of Law at the New York University, as “a gra
 
 # Methodology
 
-First, I will discuss the common distortion techniques that causes to a deceptive data visualization. Then I will redesign three deceptive data products by using the missteps that show contradictive results. In each data products, I will present both orginal and redesigned products to do compare and contrast analysis.
+First, I will discuss the common distortion techniques that cause to a deceptive data visualization. Then I will redesign three deceptive data products by using the missteps that show contradictive results. In each data products, I will present both orginal and redesigned products to do compare and contrast analysis.
 
 # Common Deception Techniques
 
@@ -16,7 +16,7 @@ Truncated Y axis is a common technique to distort data visualization. Y axis is 
 
 2. Improper Scaling and Use of Illustrations
 
-Improper scaling is another common deception technique. When visualizing the data, people usually are very sensitive to the volumn, size, and shapes of data (Krystian, 2016). So by improper scaling will affect readers' vision of data and cause the readers receive wrong message. Also by using illustration instead of proper columns counts for distraction and not easy to read (2016).
+Improper scaling is another common deception technique. When visualizing the data, people usually are very sensitive to the volumn, size, and shape of data (Krystian, 2016). So by improper scaling will affect readers' visions of data and cause the readers receive wrong message. Also by using illustration instead of proper columns contributes to distraction and not easy to read (2016).
 
 3. Aspect Ratio
 
@@ -32,31 +32,30 @@ Dual axis is used to "compare two varaibles with different magnitudes and scales
 
 ### Originial Argument: 4) On average, there is around one mass shooting for each day in America.
 ![mass shooting calender](image/mass_shooting.png)
-source: Gun Violence Archive
+source: *Gun Violence Archive*
 
 ### New Argument: Not all days are equal, mass shooting actually happended most on weekend in 2015.
 [Public profile link](http://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
 
 ![mass shooting by day of week](image/mass_shooting_1.png)
-source: Gun Violence Archive
 
-In the original argument, the arthor used calender view to demonstrate the records of mass shooting in 2015, indicating that there was really lots of mass shooting, on average per incident per day. Doing so, the arthor emphasized the frequency of mass shooting, and give a sense of nervours to reader since it seems that mass shooting occured every day.
+In the original argument, the arthor used calender view to demonstrate the records of mass shooting in 2015, indicating that there was really lots of mass shooting, on average per incident per day. Doing so, the arthor emphasized the frequency of mass shooting, and gave a sense of nervours to reader since it seems that mass shooting occured every day.
 
-In the new argument, I first grouped the incidents by day of week, then truncated Y axis by chaning minimum value to 20. So in the new graph, readers will easily see that most mass shootings happended on weekend(Sunday and Saturday), not all days were equal. By changing data patterns as well as altering Y axis, I have purpose to release reader's sense of nervours, switching focus more on weekend, instand of everyday.
+In the new argument, I first group the incidents by day of week, then truncate Y axis by chaning minimum value to 20. So in the new graph, readers will easily see that most mass shootings happended on weekend(Sunday and Saturday), not all days were equal. By changing data patterns as well as altering Y axis, I have purpose to release reader's sense of nervours, switching focus more on weekend, instand of everyday.
 
 ## Finding 2
 
 ### Originial Argument: 5）States with more guns have more gun deaths
 ![gun death vs gun ownership](image/gun_death_state.png)
 
-Source: Kalesan et al., Gun Ownership and Social Gun Culture
+Source: Kalesan et al., *Gun Ownership and Social Gun Culture*
 
 ### New Argument: There is little impact of gun ownership on gun deaths per state.
 [Public profile link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/state_gun_ownership_with_death_rate/Sheet2)
 
 ![Gun ownership vs Gun death per State](image/gun_death_2.png)
 
-In the original argument, the arthor used line chart to show that the more gun ownership the state has, the more gun death per 100,000 residents. In that case, gun ownership did play imporant role in gun death.
+In the original argument, the arthor used line chart to show that the more gun ownership the state has, the more gun death per 100,000 residents. In that case, gun ownership did play imporant role in gun death in states.
 
 In the new argument, I rescale the Y axis changing the maximum value from 20 to 200 (10X scale), which changes result visually: by seeing the almost flat trend line of new graph, it easily to state that there is little impact of gun onership on gun deaths per state.
 
@@ -64,9 +63,9 @@ In the new argument, I rescale the Y axis changing the maximum value from 20 to 
 
 ### Originial Argument: 10) Most gun deaths are suicides.
 ![Firearm suicides vs homecides](image/firearm_suicide_homicide.png)
-source: Centers for Disease Control and Prevention
+source: *Centers for Disease Control and Prevention*
 
-### New Argument: The rate of firearm homicides increases more than rate of firearm suicides between 2014 and 2016.
+### New Argument: The rate of firearm homicides increases more than the rate of firearm suicides between 2014 and 2016.
 
 [Public profile link graph 1](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_with_axis/Sheet3)
 ![Firearm Suicides vs Homicides](image/firearm1.png)
