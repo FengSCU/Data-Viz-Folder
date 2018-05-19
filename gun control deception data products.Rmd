@@ -1,14 +1,8 @@
----
-title: "Redesign Deceptive Data Products for Gun Violence in the US"
-output: html_document
----
+# Redesign Deceptive Data Products for Gun Violence in the US
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Introduction
 
-Data deception, defined by School of Law at the New York University, as “a graphical depiction of information, designed with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message." In this paper, I will redesign three deceptive data products with the purpose to make a contradictive arguments from the article on VOX. The data sources come from the original data sources from the article.
+Data deception, defined by School of Law at the New York University, as “a graphical depiction of information, designed with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message"(Pandey et al., 2015). In this paper, I will redesign three deceptive data products with the purpose to make a contradictive arguments from the article on VOX (Lopez 2018). The data sources come from the original data sources from the article.
 
 # Methodology
 
@@ -18,28 +12,30 @@ First, I will discuss the common distortion techniques that causes to a deceptiv
 
 1. Truncated Y Axis
 
-Truncated Y axis is a common technique to distort data visualization. Y axis is changed by adjusting the minimum and maximum values. Such change will deliver either an exaggerated or understandment message that affects data readers' "response to the 'how much' type of questions" (site...).
+Truncated Y axis is a common technique to distort data visualization. Y axis is changed by adjusting the minimum and maximum values. Such change will deliver either an exaggerated or understandment message that affects data readers' "response to the 'how much' type of questions" (Pandey et al., 2015).
 
 2. Improper Scaling and Use of Illustrations
 
-Improper scaling is another common deception technique. When visualizing the data, people usually are very sensitive to the volumn, size, and shapes of data. So by improper scaling will affect readers' vision of data and cause the readers receive wrong message. Also by using illustration instead of proper columns counts for distraction and not easy to read.(cite)
+Improper scaling is another common deception technique. When visualizing the data, people usually are very sensitive to the volumn, size, and shapes of data (Krystian, 2016). So by improper scaling will affect readers' vision of data and cause the readers receive wrong message. Also by using illustration instead of proper columns counts for distraction and not easy to read (2016).
 
 3. Aspect Ratio
 
-Aspect ratio most affects line charts "as it directly impacts the rate of increase or decrease of one quatity over another" (cite).
+Aspect ratio most affects line charts "as it directly impacts the rate of increase or decrease of one quatity over another" (Pandey et al., 2015).
 
 4. Misusing the Dual-Axis
 
-Dual axis is used to "compare two varaibles with different magnitudes and scales of measurements". The question regarding the dual axis is that it does change the perception of the reader, causing them to receive wrong message. 
+Dual axis is used to "compare two varaibles with different magnitudes and scales of measurements" (Krystian, 2016). The question is that dual axis  does change the perception of the reader, causing them to receive wrong message. 
 
 # Findings
 
 ## Finding 1 
 
 ### Originial Argument: 4) On average, there is around one mass shooting for each day in America.
-[]! image attach
+![Mass shooting calendar] (mass_shooting_calendar.png)
+
 ### New Argument: Not all days are equal, mass shooting actually happended most on weekend in 2015.
-[]! image attach
+[](https://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
+
 In the original argument, the arthor used calender view to demonstrate the records of mass shooting in 2015, indicating that there was really lots of mass shooting, on average per incident per day. Doing so, the arthor emphasized the frequency of mass shooting, and give a sense of nervours to reader since it seems that mass shooting occured every day.
 
 In the new argument, I first grouped the incidents by day of week, then truncated Y axis by chaning minimum value to 20. So in the new graph, readers will easily see that most mass shootings happended on weekend(Sunday and Saturday), not all days were equal. By changing data patterns as well as altering Y axis, I have purpose to release reader's sense of nervours, switching focus more on weekend, instand of everyday.
@@ -71,5 +67,10 @@ In the new argument, I only select data from 2014 to 2016 to form line chart wit
 As we can see from above findings, data deception does change the orginal messages. Common deception technique includes truncating  Y Axis, improper scaling and illustration, aspect ratios, and misusing of dual axis. We must be careful to handle data deception in visualization process.
 
 # Reference
+Lopez, German (2018). America's Unique Gun Violence Problem, Explanied in 17 Maps and Charts. Vox. Accessed from https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts.
+
+Pandey, A. V., Rall, K., Satterthwaite, M. L., Nov, O., & Bertini, E. (2015). How deceptive are deceptive visualizations? An empirical analysis of common distortion techniques. In CHI 2015 - Proceedings of the 33rd Annual CHI Conference on Human Factors in Computing Systems: Crossings (Vol. 2015-April, pp. 1469-1478). Association for Computing Machinery. DOI: 10.1145/2702123.2702608
+
+Krystian, Marisa (2016). Watch Out! 4 Common Missteps that Lead to Deceptive Data Visualizations. Infogram. Accessed from https://infogram.com/blog/4-common-missteps-that-lead-to-deceptive-data-visualizations/.
 
 
