@@ -18,8 +18,12 @@ The following paper includes two general sections: 1) redesigned data products, 
 # Redesigned Data Products 
 ## Finding 1: Definition really matters: key words should be well defined
 ## Finding 1.1: Which countries belong to developed countries? 
-![Vox Argument 1](image/finding1_vox.png)
+Vox Original Argument
+
+![Vox_Argument](image/finding1_vox.png)
 Source: *the Guardian*
+
+First Version
 
 ![First Version](image/HDI_51.png)
 Source: *the Guardian* and *HDI official webiste*
@@ -32,19 +36,26 @@ Source: *the Guardian* and *OECD official webiste*
 
 [Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/OECD_24/firearmratewithallOECD?publish=yes)
 
+Final Version
 
 ![Final Version](image/1.firearm_world_final.png)
 Source: *the Guardian* and *HDI official webiste*
+
 [Public profile link graph 1](https://public.tableau.com/profile/feng.wang2440#!/vizhome/firearmrateper1MpeopleinDevelopedCountries/firearmrateper1MHDIHighestCountry?publish=yes)
 
 
 ## Finding 1.2: Mass shooting: a media word with multiple definitions
+First Version
+
 ![First Version](image/mass_shooting_source.png)
 Source: *Mass Shootings: Definitions and Trends*
+
+Final Version
 
 ![Final Vesion](image/mass_shooting_pie.png)
 
 Source: *Gun Violence Archive* & *Mass Shootings: Definitions and Trends*
+
 [Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shooting_pie/mass_shooting_resource?publish=yes)
 
 ### Description
@@ -65,9 +76,14 @@ To design a good data product, a good selection of data is critical to form a go
 
 ## Finding 2: Think hard about causel relationship: More gun deaths are suicides? Firearm suicide is just one method of suicide.
 
-![VOX Argument 10](image/finding2.png)
+Vox
+![Vox Argument 10](image/finding2.png)
+
+First Version
 
 ![First Version](image/firearm_first.png)
+
+Final Version
 
 ![Final Vesion](image/nonfirearm_final.png)
 
@@ -86,17 +102,28 @@ The facts,claims, and warranty are all necessary to create a good argument, when
 
 ## Finding 3: Look carefully about cross section data: States with tighter gun control laws have fewer gun-related death? No, the rate of firearm death increases more in states with tighter gun control laws than that with no laws.
 
+Vox
+
 ![Vox Argument 8](image/picture1.png)
 
 Source: *State Health Facts*
+
+First Version Updated Maps
+
 ![First Version Updated Maps](image/map2014.png)
+
+First Version Rate Change
 
 ![First Version Rate Change](image/rate_change.png)
 Source: *State Health Facts*
+
 [Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/rateofchangefirst/lawpolicy?publish=yes)
+
+Final Version
 
 ![Final Version](image/policy_law_rate.png)
 Source: *State Health Facts*
+
 [Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/rateofchangefirst/lawpolicy?publish=yes))
 
 
@@ -118,17 +145,23 @@ Look carefully about cross section data, and map, though fancy and drawing atten
 
 ## Finding 4: Not all days are equal, mass shooting actually happend mostly on weekend in 2015
 
+Vox
+
 ![Vox Argument 4](image/mass_shooting_calender.png)
 source: *Gun Violence Archive*
 
+First Version
 
 ![First Version](image/4.mass_shooting_weekend.png)
 source: *Gun Violence Archive*
 
 [Public profile link](http://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
 
+Final Version
+
 ![Final Vesion](image/4.mass_shooting_revised.png)
 source: *Gun Violence Archive*
+
 [Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday_final/revised?publish=yes)
 
 ### Description
@@ -145,17 +178,24 @@ Not all days are equal, mass shooting actually happen most during weekend in 201
 
 ## Finding 5: More guns, less number of gun deaths per state
 
+Vox
+
 ![Vox Argument ](image/gun_death_state.png)
 
 Source: Kalesan et al., *Gun Ownership and Social Gun Culture*
 
+First Version
+
 ![First Version](image/gun_death_first.png)
 Source: Kalesan et al., *Gun Ownership and Social Gun Culture*
+
 [Public profile link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/state_gun_ownership_with_death_rate/Sheet2)
 
+Final Version
 
 ![Final Vesion](image/gun_ownership_state_final.png)
 Source: Kalesan et al., *Gun Ownership and Social Gun Culture*
+
 [Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/gun_ownership_final/gunownershipgundeath?publish=yes)
 
 ### Description
@@ -170,15 +210,23 @@ More guns, less number of gun deaths per state. When design the graph, we should
 
 ## Finding 6: The rate of firearm homicides increases more than the rate of firearm suicides between 2014 and 2016.
 
+Vox
+
 ![Vox Argument 10](image/finding2.png)
 Source: *Centers for Disease Control and Prevention (CDC)*
 
+First Version
+
 ![First Version](image/firearm1.png)
 Source: *Centers for Disease Control and Prevention (CDC)*
+
 [Public profile link graph 1](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_with_axis/Sheet3)
+
+Final Versions
 
 ![Final Vesion 1](image/finding6_first.png)
 Source: *Centers for Disease Control and Prevention (CDC)*
+
 [Public profile link graph 2](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_withoutlables/Sheet3)
 
 ![Final Version 2](image/picture6.png)
