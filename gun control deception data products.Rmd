@@ -70,8 +70,7 @@ source: *Centers for Disease Control and Prevention*
 [Public profile link graph 1](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_with_axis/Sheet3)
 ![Firearm Suicides vs Homicides](image/firearm1.png)
 
-[Public profile link graph 2](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_withoutlables/Sheet3)
-![Firearm Suicides vs Homicides](image/firearm2.png)
+
 
 In the original argument, the arthor used line chart to compare the number of firearm suicides versus homicides from year of 1999 to 2016, indicating that the number of firearm suicides was always greater than that of homicides. The author would like to state that firearm suicide was indeed the problem rather than the firearm homicides.
 
