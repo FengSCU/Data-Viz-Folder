@@ -229,7 +229,7 @@ Source: *Centers for Disease Control and Prevention (CDC)*
 
 [Public profile link graph 2](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_withoutlables/Sheet3)
 
-![Final Version 2](image/picture6.png)
+![Final Version 2](image/Picture6.png)
 Source: *Centers for Disease Control and Prevention (CDC)*
 
 ### Description
