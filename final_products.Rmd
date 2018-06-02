@@ -22,11 +22,18 @@ The following paper includes two general sections: 1) redesigned data products, 
 Source: *the Guardian*
 
 ![First Version](image/firearm rate per 1M HDI Highest Country.png)
+Source: *the Guardian* and *HDI official webiste*
+[Public profile link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/firearmrateper1MpeopleinDevelopedCountriesOriginal/original?publish=yes)
+
 
 ![First Version 2](image/firearm rate with all OECD.png)
+Source: *the Guardian* and *OECD official webiste*
+[Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/OECD_24/firearmratewithallOECD?publish=yes)
+
 
 ![Final Version](image/1.firearm_world_final.png)
-Tableau link and source:
+Source: *the Guardian* and *HDI official webiste*
+[Public profile link graph 1](https://public.tableau.com/profile/feng.wang2440#!/vizhome/firearmrateper1MpeopleinDevelopedCountries/firearmrateper1MHDIHighestCountry?publish=yes)
 
 
 ## Finding 1.2: Mass shooting: a media word with multiple definitions
@@ -34,7 +41,9 @@ Tableau link and source:
 Source: *Mass Shootings: Definitions and Trends*
 
 ![Final Vesion](image/mass_shooting_pie.png)
-link...
+
+Source: *Gun Violence Archive* & *Mass Shootings: Definitions and Trends*
+[Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shooting_pie/mass_shooting_resource?publish=yes)
 
 ### Description
 The Vox article has issues with clear definitions, which make audience confused and affect data selection. So I redesigned two data products with different definitions of "developed countries" and "mass shooting" in the first version. In the final version, I edit the data selection for each definitions: 1)"developed countries": I delete the OECD-defined developed countries and leave the HDI-defined developed countries, which makes the content more consistent with vox; 2) "mass shooting": instead of using tables show multiple resources in how mass shootings are defined and counted as the first version of data product, my final data product just selects one different source and make a pie chart to eye the difference.
@@ -57,10 +66,10 @@ To design a good data product, a good selection of data is critical to form a go
 ![VOX Argument 10](image/finding2.png)
 
 ![First Version](image/firearm_first.png)
-link...
 
 ![Final Vesion](image/nonfirearm_final.png)
-link...
+
+[Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/firearm_nonfirearm_suicide/Sheet1?publish=yes)
 
 ### Description
 Vox article tried to claim that gun control would reduce suicide rate because firearm suicide is a large part of suicide compared with firearm homicide. However, comparisons between suicides with homicides were not on the same page, thus the claim is questionable. In my first version, I compared yearly total number of suicides with total number of firearm suicides, and found that the growth of firearm suicides was just a part of total growth trend of suicides. However, this graph still cannot see clearly if firearm suicide plays a major role in total suicides. So in my final version, I use total suicide minus firearm suicide to get the non-firearm suicide, and compare the yearly changes between firearm suicide and non-firearm suicide. We can see that both firearm suicide and non-firearm suicide are increasing, plus, except 2013 non-firearm suicides passed firearm suicides since 2006. Thus, the suicide death by method of firearms indeed declined over years.
@@ -76,13 +85,17 @@ The facts,claims, and warranty are all necessary to create a good argument, when
 ## Finding 3: Look carefully about cross section data: States with tighter gun control laws have fewer gun-related death? No, the rate of firearm death increases more in states with tighter gun control laws than that with no laws.
 
 ![Vox Argument 8](image/picture1.png)
+
 Source: *State Health Facts*
 ![First Version Updated Maps](image/map2014.png)
 
 ![First Version Rate Change](image/rate_change.png)
+Source: *State Health Facts*
+[Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/rateofchangefirst/lawpolicy?publish=yes)
 
 ![Final Version](image/policy_law_rate.png)
-link...
+Source: *State Health Facts*
+[Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/rateofchangefirst/lawpolicy?publish=yes))
 
 
 ### Description
@@ -108,10 +121,13 @@ source: *Gun Violence Archive*
 
 
 ![First Version](image/4.mass_shooting_weekend.png)
+source: *Gun Violence Archive*
+
 [Public profile link](http://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday/Sheet1)
 
 ![Final Vesion](image/4.mass_shooting_revised.png)
-link...
+source: *Gun Violence Archive*
+[Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/mass_shootingweekday_final/revised?publish=yes)
 
 ### Description
 The calendar view chart is a fancy but ineffective chart to show the frequency of mass shooting. According to the data pixel ratio model, an aesthetic visualization should state the function first, then the form of chart. So I redesigned the products in the view of days of week, instead of calendar view in the first version. Doing so, the new graph supports my argument that most mass shootings happened on weekends. In the final version, I only edit the title as well as the color of the graph to create more contrast and impressive chart.
@@ -132,11 +148,13 @@ Not all days are equal, mass shooting actually happen most during weekend in 201
 Source: Kalesan et al., *Gun Ownership and Social Gun Culture*
 
 ![First Version](image/gun_death_first.png)
+Source: Kalesan et al., *Gun Ownership and Social Gun Culture*
 [Public profile link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/state_gun_ownership_with_death_rate/Sheet2)
 
 
 ![Final Vesion](image/gun_ownership_state_final.png)
-link...
+Source: Kalesan et al., *Gun Ownership and Social Gun Culture*
+[Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/gun_ownership_final/gunownershipgundeath?publish=yes)
 
 ### Description
 When looking at scatter plot, a trend line is an important sign to audience about the relationship/association between X variable and Y variable. In my first version, I rescale the Y axis trying to weak the scope of line to indicate little or almost no impact of gun ownership on gun deaths per state. In my final version, I use the same dataset but different Y variable (total number of people death per state) to create new graph. As can be see from the graph, the line is decreasing, which means the more gun ownership has a decreasing trend for the number of death per state. In addition, I add a reference vertical line showing national average gun ownership rate.
@@ -151,16 +169,18 @@ More guns, less number of gun deaths per state. When design the graph, we should
 ## Finding 6: The rate of firearm homicides increases more than the rate of firearm suicides between 2014 and 2016.
 
 ![Vox Argument 10](image/finding2.png)
-source: *Centers for Disease Control and Prevention*
+Source: *Centers for Disease Control and Prevention (CDC)*
 
 ![First Version](image/firearm1.png)
+Source: *Centers for Disease Control and Prevention (CDC)*
 [Public profile link graph 1](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_with_axis/Sheet3)
 
 ![Final Vesion 1](image/finding6_first.png)
+Source: *Centers for Disease Control and Prevention (CDC)*
 [Public profile link graph 2](https://public.tableau.com/profile/feng.wang2440#!/vizhome/suicides_vs_homicides_withoutlables/Sheet3)
 
 ![Final Version 2](image/picture6.png)
-
+Source: *Centers for Disease Control and Prevention (CDC)*
 
 ### Description
 To design a deceptive data product, I filtered the original dataset and selected only the recent years from 2014 to 2016, to compare the firearm suicide versus firearm homicide in the first version.  In the final version, I edit the graph, hiding the Y axises lables but adding the numbers on the line. Hiding the Y axis will make readers more focus on the lines and respect ratio, and less confusing with the dual Y labels, giving audiences' wants according to audience model. In addition, I develop a new 100% stacked bar chart to further show the change of composition between firearm suicides and firearm homicides. This bar chart consists with the dual axis line chart, which ensure audience the claim. 
@@ -198,8 +218,8 @@ Lopez, German (2018). America's Unique Gun Violence Problem, Explanied in 17 Map
 
 Mass Shooting Tracker, homepage, undated. As of October 20,2016: https://www.massshootingtracker.org
 
+Smart Gosanna. Mass Shootings: Definitions and Trends. RAND Research. Accessed from https://www.rand.org/research/gun-policy/analysis/supplementary/mass-shootings.html
 
-
-
+State Health Facts (2016). Kaiser Family Foundation. Accessed from https://www.kff.org/other/state-indicator/firearms-death-rate-per-100000/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
 
 
