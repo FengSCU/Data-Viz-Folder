@@ -21,13 +21,15 @@ The following paper includes two general sections: 1) redesigned data products, 
 ![Vox Argument 1](image/finding1_vox.png)
 Source: *the Guardian*
 
-![First Version](image/firearm rate per 1M HDI Highest Country.png)
+![First Version](image/HDI_51.png)
 Source: *the Guardian* and *HDI official webiste*
+
 [Public profile link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/firearmrateper1MpeopleinDevelopedCountriesOriginal/original?publish=yes)
 
 
-![First Version 2](image/firearm rate with all OECD.png)
+![First Version 2](image/OECD.png)
 Source: *the Guardian* and *OECD official webiste*
+
 [Public link](https://public.tableau.com/profile/feng.wang2440#!/vizhome/OECD_24/firearmratewithallOECD?publish=yes)
 
 
